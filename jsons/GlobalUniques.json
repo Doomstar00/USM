@@ -1,0 +1,12 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "Gain a free [USM tech] [in capital] <upon discovering [Future Tech]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [Can be continually researched]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [Singularity Tech]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [Hive Advancement]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [The End]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [The Grand Idea]> <for [Major]>",
+        "Gain a free [USM tech] [in capital] <upon discovering [Alien Evolution]> <for [Major]>"
+    ]
+}

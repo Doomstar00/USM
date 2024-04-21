@@ -1,0 +1,17 @@
+[
+    {
+    "name": "USM tech", 
+    "cost": 0, 
+    "uniques": ["Unavailable", 
+       // "[+2]% Strength <for [All] units> <when attacking> <for [9999] turns>", 
+        //"[+2]% Strength <for [All] units> <when defending> <for [9999] turns>", 
+        "[+2]% Strength <for [All] units> <for [9999] turns>", 
+        "[+2]% [Production] [in all cities] <for [9999] turns>", 
+        "[+2]% [Gold] <for [9999] turns>", 
+        "[+2]% [Science] <for [9999] turns>", 
+        "[+2]% [Culture] <for [9999] turns>", 
+        "[+2]% [Food] [in all cities] <for [9999] turns>", 
+        "Remove [USM tech] [in this city]"
+    ]
+    }
+]
